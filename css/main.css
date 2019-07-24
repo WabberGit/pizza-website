@@ -82,16 +82,17 @@ nav{
 	padding-right: 150px;
 }
 .text_2{
-	font-size:20px;
+	font-size: 20px;
 	font-family:'Slabo 27px';
 	text-align: center;
-
 }
 .logo_track{
 	width:8%;
 	height:8%;
 }
 .img_prod{
+	width: auto;
+	height: auto;
 	float:right;
 }
 .text_3{
@@ -106,12 +107,13 @@ nav{
 
 }
 .text_ord{
-	font-size:20px;
+	position: relative;
+	font-size: 20px;
 	font-family:'Slabo 27px';
 	text-transform: lowercase;
 	text-align: center;
-	color:black;
-	bottom: 25px;
+	color: white;
+	bottom: -60px;
 }
 
 .niz{
