@@ -1,0 +1,128 @@
+body{
+	background: url(../img/mesto.png) no-repeat top / cover;
+	height: 5000px;
+	padding: 0;
+	margin: 0;
+	color: white;
+}
+div{
+	box-sizing: border-box;
+}
+.ph{
+
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+h3{
+	float:left;
+	font-size:50px;
+	font-family: 'FORTNITE BATTLEFEST';
+	padding-left: 19px;
+	padding-top: 0;
+	padding-right: 29px;
+}
+.logo{
+	margin: 68px 0 0 0;
+	float: left;
+}
+nav{
+	float: right;
+	margin-top: 87px; 
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.clearfix:after {
+	content: '';
+	display:table;
+	width:100%;
+	clear:both;
+}
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 62px;
+	font-size: 21px;
+	font-family:'Slabo 27px';
+}
+.menu a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.titles__first{
+	font-size:50px;
+	text-align:center;
+	font-family: 'Slabo 27px';
+	padding: 0;
+	margin: 0;
+	line-height: 70px;
+	text-transform: uppercase;
+}
+.img_pizza{
+	float:left;
+	padding-left: 80px;
+	padding-top: 0;
+}
+.text_1{
+	font-size:20px;
+	font-family:'Slabo 27px';
+	text-align: center;
+}
+.logo_pi2{
+	width:50%;
+	height:50%;
+	padding-left: 25px;
+}
+.img_car{
+	
+	
+	text-align: center;
+	padding-right: 150px;
+}
+.text_2{
+	font-size:20px;
+	font-family:'Slabo 27px';
+	text-align: center;
+
+}
+.logo_track{
+	width:8%;
+	height:8%;
+}
+.img_prod{
+	padding-top: 0;
+	float:right;
+    margin-top: 30px;
+
+}
+.text_3{
+	font-size:20px;
+	font-family:'Slabo 27px';
+	text-align: center;
+}
+.logo_eda{
+	width:25%;
+	height:25%;
+	text-align:center;
+
+}
+.text_ord{
+	font-size:20px;
+	font-family:'Slabo 27px';
+	text-transform: lowercase;
+	text-align: center;
+	color:black;
+	bottom: 25px;
+}
+
+.niz{
+	text-align: center;
+	width:25%;
+	height: 25%;
+	margin-left: 380px;
+}
